@@ -48,6 +48,16 @@
   max-width: 490px;
 
 }
+.team-boxed .item .box-inner {
+  text-align: center;
+  padding: 30px;
+  background-color: gray;
+  color: #fff;
+  border-radius: 5px;
+  margin-top: 8px;
+  max-width: 250px;
+
+}
 
 .team-boxed .item .name {
   font-weight: bold;
